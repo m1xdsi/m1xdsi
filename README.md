@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @m1xdsi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img align="left" height="170" src="computer.gif"/>
 
-<!---
-m1xdsi/m1xdsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+``` diff
+@@welcome to my profile ! <3@@
++ nixos user
+! brazilian 
+- twikipedia my beloved
+# any pronoums
+```
